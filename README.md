@@ -13,12 +13,6 @@ I’m excited to share my latest frontend project where I recreated the Tesla la
 💻 Technologies Used:
 HTML5 | CSS3 | Flexbox
 
-🔗 Live Demo:
-(Paste your GitHub Pages link here)
-
-🔗 GitHub Repository:
-(Paste GitHub repo link here)
-
 I’m continuously improving my frontend skills and working toward becoming a professional React Developer.
 
 Feedback is welcome!
