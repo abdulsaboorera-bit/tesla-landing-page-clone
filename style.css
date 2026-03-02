@@ -296,3 +296,44 @@ gap: 2%;
 font-size: 20px;
 
 }
+
+
+
+
+
+@media (max-width: 768px) {
+
+  .nav1 {
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  .ctn {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .mid-section img {
+    width: 100%;
+  }
+
+  .carousel {
+    flex-direction: column;
+  }
+
+  .carousel-card {
+    width: 100%;
+  }
+
+  .pictures {
+    flex-direction: column;
+  }
+
+  .numbers {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 20px;
+  }
+
+}
